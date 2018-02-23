@@ -10,5 +10,7 @@ public class Mina {
     public void problem1() throws Exception {
 
         assertEquals("", "");
+
+        //테스트 커밋
     }
 }
